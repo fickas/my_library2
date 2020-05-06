@@ -1,1 +1,1 @@
-from my_library.my_library import *
+from test_clone.my_library import *
